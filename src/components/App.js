@@ -19,8 +19,8 @@ function Home() {
 function About() {
   return (
     <div id="about">
-      <h1>About Us</h1>
-      <p>We are a team of developers who specialize in creating websites and applications using the latest technologies and best practices.</p>
+      <h1>About </h1>
+      <p> </p>
     </div>
   );
 }
